@@ -18,25 +18,6 @@ An iOS Simple Swift Progress HUD
 
 Can be used with SPM (Swift Package Manager).
 
-MKProgress is only available via [CocoaPods](http://cocoapods.org):
-
-```ruby
-pod 'MKProgress', '~> 1.1.0'
-```
-If you want to use the latest features of MKProgress use normal external source dependencies.
-
-```ruby
-pod 'MKProgress', :git => 'https://github.com/kamirana4/MKProgress.git'
-```
-
-This will pull the latest master branch everytime you do 'pod isntall'
-
-## For Xcdoe 9.4.1 or Swift < 4.2
-
-```ruby
-pod 'MKProgress', '1.0.7'
-```
-
 ## Usage
 
 The included sample code shows how to use the Progress HUD. 
